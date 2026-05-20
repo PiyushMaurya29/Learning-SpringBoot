@@ -13,6 +13,7 @@ public class LearningSpringBootApplication {
 
 
 		int z = '1';
+		int y = 99;
 	}
 
 }
