@@ -8,6 +8,9 @@ public class LearningSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LearningSpringBootApplication.class, args);
+
+		int x = 99;
+		int y = 100;
 	}
 
 }
