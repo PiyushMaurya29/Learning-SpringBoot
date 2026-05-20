@@ -10,6 +10,9 @@ public class LearningSpringBootApplication {
 		SpringApplication.run(LearningSpringBootApplication.class, args);
 
 		int x = 99;
+
+
+		int z = '1';
 	}
 
 }
